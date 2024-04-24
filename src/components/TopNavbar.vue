@@ -1,6 +1,6 @@
 <template>
     <header>
-        <img class="logo" src="src\logo\logo.svg" alt="logo">
+        <img class="logo" src="..\logo\logo.svg" alt="logo">
         <nav>
             <ul class="nav_links">
                 <li><a href="#">Movies</a></li>
